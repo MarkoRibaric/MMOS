@@ -1,0 +1,16 @@
+{
+  "name": "MyApp2",
+  "main": "app/app.js",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript/core": "~8.4.0",
+    "@nativescript/theme": "~3.0.2",
+    "@triniwiz/nativescript-accelerometer": "^4.0.3",
+    "nativescript-popup": "^1.5.0"
+  },
+  "devDependencies": {
+    "@nativescript/android": "8.4.0",
+    "@nativescript/webpack": "~5.0.12"
+  }
+}
